@@ -49,6 +49,6 @@ console.log(hi.everyone());
 
 ![](https://img.shields.io/badge/Docker-15153F?style=flat&logo=docker)
 
-## Resumé
+## :pencil: Resumé
 
 Get my detailled resumé [here](https://github.com/Ratibus11/Ratibus11/blob/main/RESUME.md) or directly on my [LinkedIn](https://linkedin.com/in/lucas-bastian) !
