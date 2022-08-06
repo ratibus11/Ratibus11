@@ -9,7 +9,7 @@ console.log(hi.everyone());
 :books: I like discover new technologies,\
 :gear: I'm currently specializing myself in web development (Node.js, TypeScript, ...),\
 :joystick: Loving video games since my childhood (currently War Thunder, Minecraft, Anno 1800, ...),\
-:email: Don't hesitate to contact me on my email address: [bastian.lucas@icloud.com](mailto:Lucas%20Bastian<bastian.lucas@icloud.com>),
+:email: Feel free to contact me by e-mail at [bastian.lucas@icloud.com](mailto:Lucas%20Bastian<bastian.lucas@icloud.com>),
 
 ## :keyboard: My technical knowledges
 
