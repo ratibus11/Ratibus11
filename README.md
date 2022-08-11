@@ -31,6 +31,7 @@ Have a look on my detailled resumé [here](https://github.com/Ratibus11/Ratibus1
 
 ![](https://img.shields.io/badge/Vue.js-61AF83?style=for-the-badge)
 ![](https://img.shields.io/badge/Laravel-E4412F?style=for-the-badge)
+![](https://img.shields.io/badge/Gulp-D3544F?style=for-the-badge)
 ![](https://img.shields.io/badge/Bootstrap-612BE4?style=for-the-badge)
 
 ## :computer: Software development
