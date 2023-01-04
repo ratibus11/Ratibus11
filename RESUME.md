@@ -28,7 +28,7 @@ _Jan. to Apr. 2022_\
     -   Frameworks - [Vue.js](https://vuejs.org), [Laravel](https://laravel.com)
     -   Database - [MySQL](https://mysql.com/fr)
 
-> As web team's manager at OCI, I got Lucas in my team for 4 months. During this period, Lucas has worked as web developer and integrate quickly the team. His adaption capacity and his enthusiasm made him quickly operational and autonomous on projects I gave him. I particularly recommend him to you, he is an intelligent person we take pleasure to work with.
+> As web team's manager at OCI, I got Lucas in my team for 4 months. During this period, Lucas has worked as web developer and quickly integrate the team. His adaption capacity and his enthusiasm made him quickly operational and autonomous on projects I gave him. I particularly recommend him to you, he is an intelligent person we take pleasure to work with.
 >
 > <div align="right"><u><a href="https://www.linkedin.com/in/antonin-muller-ba920020/">Antonin Muller</a></u></div>
 > <div align="right"><em>My internship manager,<br/>Web team manager at OCI - Strasbourg-Mundolsheim</em></div>
