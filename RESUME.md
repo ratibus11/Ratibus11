@@ -28,14 +28,10 @@ _Jan. to Apr. 2022_\
     -   Frameworks - [Vue.js](https://vuejs.org), [Laravel](https://laravel.com)
     -   Database - [MySQL](https://mysql.com/fr)
 
-> As web team's manager at OCI, I got Lucas in my team for 4 months. During this period, Lucas has worked as web developer and integrate quickly the team.
->
-> His adaption capacity and his enthusiasm made him quickly operational and autonomous on projects I gave him.
->
-> I particularly recommend him to you, he is an intelligent person we take pleasure to work with.
+> As web team's manager at OCI, I got Lucas in my team for 4 months. During this period, Lucas has worked as web developer and integrate quickly the team. His adaption capacity and his enthusiasm made him quickly operational and autonomous on projects I gave him. I particularly recommend him to you, he is an intelligent person we take pleasure to work with.
 >
 > <div align="right"><u><a href="https://www.linkedin.com/in/antonin-muller-ba920020/">Antonin Muller</a></u></div>
-> <div align="right"><em>My internship's manager,<br/>Web team's manager at OCI - Strasbourg</em></div>
+> <div align="right"><em>My internship manager,<br/>Web team's manager at OCI - Strasbourg</em></div>
 
 ### <u>Fullstack developer</u>
 
@@ -54,7 +50,7 @@ at [INSA Strasbourg](https://insa-strasbourg.fr/fr)/[iCube Laboratory](https://i
 >
 > <div align="right"><u><a href="https://www.linkedin.com/in/denis-cavallucci-52905014
 > ">Denis Cavallucci</a></u></div>
-> <div align="right"><em>My project's manager,<br/>Engineering innovation teacher at INSA - Strasbourg</em></div>
+> <div align="right"><em>My project manager,<br/>Engineering innovation teacher at INSA - Strasbourg</em></div>
 
 ## :pen: Studies
 
