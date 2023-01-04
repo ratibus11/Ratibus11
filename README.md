@@ -6,17 +6,17 @@ console.log(hi.everyone());
 # :man: About me
 
 :pen: Currently studying IT engineering at [CESI Engineering School](https://cesi.fr)...\
-:keyboard: ...and working as a frontend-developper intern at [BIL](https://bil.com) in Luxembourg,
+:keyboard: ...and working as a frontend-developer intern at [BIL](https://bil.com) in Luxembourg,
 
 :books: I like discover new technologies,\
 :gear: I'm currently specializing myself in web development (Node.js, TypeScript, Vue.js, ...),\
 :joystick: Loving video games since my childhood (currently War Thunder, Minecraft, Anno 1800, ...),\
 :email: Feel free to contact me by e-mail at [bastian.lucas@icloud.com](mailto:Lucas%20Bastian<bastian.lucas@icloud.com>),
 
-Have a look on my detailled resumé [here](RESUME) or directly on my [LinkedIn](https://linkedin.com/in/lucas-bastian) !\
+Have a look on my detailed resume [here](./RESUME.md) or directly on my [LinkedIn](https://linkedin.com/in/lucas-bastian) !\
 [Here](#hammer-development-projects) are my development projects! Check it out!
 
-# :keyboard: My technical knowledges
+# :keyboard: My technical knowledge
 
 ## :earth_africa: Web development
 
@@ -57,7 +57,7 @@ Have a look on my detailled resumé [here](RESUME) or directly on my [LinkedIn](
 ![](https://img.shields.io/badge/MySql-255D82?style=for-the-badge)
 ![](https://img.shields.io/badge/MongoDB-6BAD4F?style=for-the-badge)
 
-## :memo: Versionning
+## :memo: Versioning
 
 ![](https://img.shields.io/badge/Github-1C1F23?style=for-the-badge)
 ![](https://img.shields.io/badge/Gitlab-E8A044?style=for-the-badge)
@@ -66,21 +66,18 @@ Have a look on my detailled resumé [here](RESUME) or directly on my [LinkedIn](
 
 ![](https://img.shields.io/badge/Docker-3B7AA6?style=for-the-badge)
 
-## :gear: Projet management
+## :gear: Project management
 
 ![](https://img.shields.io/badge/Confluence-2369F5?style=for-the-badge)
 ![](https://img.shields.io/badge/Jira-4085F7?style=for-the-badge)
 
 # :hammer: Development projects
 
-|                                    Name                                     |                                                                 Description                                                                 |                                           Technologies                                             |                                     Progression                                      |                           License                           |
-| :-------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :---------------------------------------------------------: |
-|             [ratibus11.github.io](https://ratibus11.github.io)              |                                                              My web portfolio                                                               |                                                                                                    |                                                                                      |                                                             |
-| [improved-localstorage](https://github.com/Ratibus11/improved-localstorage) |  [NPM](https://npmjs.com) package for interactions with [localstorage](https://developer.mozilla.org/fr/docs/Web/API/Window/localStorage)   | [TypeScript](https://typescriptlang.org), [Gulp](https://gulpjs.com) and [Jest](https://jestjs.io) |         [Published](https://npmjs.com/package/improved-localstorage) v4.0.0          |       [MIT](https://choosealicense.com/licenses/mit)        |
-| [localstorage-language](https://github.com/Ratibus11/localstorage-language) |                      [NPM](https://npmjs.com) package to retrieve and set user's language stored in the local storage                       | [TypeScript](https://typescriptlang.org), [Gulp](https://gulpjs.com) and [Jest](https://jestjs.io) | [Published](https://npmjs.com/package/localstorage-language) v1.0.0 <br>Rewrite soon |       [MIT](https://choosealicense.com/licenses/mit)        |
-|                             localstorage-theme                              | [NPM](https://npmjs.com) package to retrieve and set user's displaying theme (dark :new_moon: or light :sunny:) stored in the local storage | [TypeScript](https://typescriptlang.org), [Gulp](https://gulpjs.com) and [Jest](https://jestjs.io) |                                     Coming soon                                      |                                                             |
-|  [template-npm-package](https://github.com/Ratibus11/template-npm-package)  |                                           Template for [NPM](https://npmjs.com) packages projects                                           | [TypeScript](https://typescriptlang.org), [Gulp](https://gulpjs.com) and [Jest](https://jestjs.io) |             [Online](https://github.com/Ratibus11/template-npm-package)              | [Unlicensed](https://choosealicense.com/licenses/unlicense) |
-|                          template-frontend-vuejs3                           |                                       Template for [Vue.js3](https://vuejs.org) web frontend projects                                       |                                                                                                    |                                                                                      |                                                             |
-|                         template-backend-typescript                         |                                  Template for [TypeScript](https://typescriptlang.org) web backend project                                  |                                                                                                    |                                                                                      |                                                             |
-|                               vscode-arduino                                |                       [VScode](https://code.visualstudio.com) extension for [Arduino](https://arduino.cc) development                       |                                                                                                    |                                                                                      |                                                             |
-|                                E**s E\*\***e                                |                                                                                                                                             |                                                                                                    |                                                                                      |                     All rights reserved                     |
+|                                    Name                                     |                                                                 Description                                                                 |                                           Technologies                                             |                             Progression                             |                           License                           |
+| :-------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------: | :---------------------------------------------------------: |
+|             [ratibus11.github.io](https://ratibus11.github.io)              |                                                              My web portfolio                                                               |                                                                                                    |                                                                     |                                                             |
+| [improved-localstorage](https://github.com/Ratibus11/improved-localstorage) |  [NPM](https://npmjs.com) package for interactions with [localstorage](https://developer.mozilla.org/fr/docs/Web/API/Window/localStorage)   | [TypeScript](https://typescriptlang.org), [Gulp](https://gulpjs.com) and [Jest](https://jestjs.io) | [Published](https://npmjs.com/package/improved-localstorage) v4.0.0 |       [MIT](https://choosealicense.com/licenses/mit)        |
+| [localstorage-language](https://github.com/Ratibus11/localstorage-language) |                      [NPM](https://npmjs.com) package to retrieve and set user's language stored in the local storage                       | [TypeScript](https://typescriptlang.org), [Gulp](https://gulpjs.com) and [Jest](https://jestjs.io) |                       Rewrite in progress...                        |       [MIT](https://choosealicense.com/licenses/mit)        |
+|                             localstorage-theme                              | [NPM](https://npmjs.com) package to retrieve and set user's displaying theme (dark :new_moon: or light :sunny:) stored in the local storage | [TypeScript](https://typescriptlang.org), [Gulp](https://gulpjs.com) and [Jest](https://jestjs.io) |                             Coming soon                             |                                                             |
+|  [template-npm-package](https://github.com/Ratibus11/template-npm-package)  |                                           Template for [NPM](https://npmjs.com) packages projects                                           | [TypeScript](https://typescriptlang.org), [Gulp](https://gulpjs.com) and [Jest](https://jestjs.io) |     [Online](https://github.com/Ratibus11/template-npm-package)     | [Unlicensed](https://choosealicense.com/licenses/unlicense) |
+|                                E**s E\*\***e                                |                                                                                                                                             |                                                                                                    |                                                                     |                     All rights reserved                     |

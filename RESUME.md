@@ -1,13 +1,13 @@
 # RESUME.md
 
-## :office: Professionnal experiences
+## :office: Professional experiences
 
 ### <u>Frontend developer</u>
 
 _Since Nov. 2022_\
 at [Banque Internationale à Luxembourg](https://www.bil.com) - Luxembourg, Luxembourg
 
--   Member of the CRM team, I'm in charge to create an internal web tool's frontend and API functionnalities:
+-   Member of the CRM team, I'm in charge to create an internal web tool's frontend and API functionalities:
     -   Management (CRUD) of customers' subscriptions for reporting purpose.
     -   Using:
         -   Languages - [TypeScript](https://typescriptlang.org), [Java](https://java.com/fr), [SCSS](https://sass-lang.com)
@@ -30,14 +30,14 @@ _Jan. to Apr. 2022_\
 
 > As web team's manager at OCI, I got Lucas in my team for 4 months. During this period, Lucas has worked as web developer and integrate quickly the team.
 >
-> His adapation capacity and his enthusiasm made him quicly operationnal and autonomous on projects I gave him.
+> His adaption capacity and his enthusiasm made him quickly operational and autonomous on projects I gave him.
 >
 > I particularly recommend him to you, he is an intelligent person we take pleasure to work with.
 >
 > <div align="right"><u><a href="https://www.linkedin.com/in/antonin-muller-ba920020/">Antonin Muller</a></u></div>
 > <div align="right"><em>My internship's manager,<br/>Web team's manager at OCI - Strasbourg</em></div>
 
-### <u>Fullstack developper</u>
+### <u>Fullstack developer</u>
 
 _Apr. to Jul. 2021_\
 at [INSA Strasbourg](https://insa-strasbourg.fr/fr)/[iCube Laboratory](https://icube.unistra.fr) - Strasbourg, France
@@ -67,16 +67,16 @@ at [CESI Engineering School](https://cesi.fr) - Lingolsheim, France
 
 -   STRONGBOX 2000 / Worldwide Weather Watcher - Arduino, embedded electronics,
 -   Save K17 - Python, audio signals manipulations,
--   Ýfansi / Cloud Healtcare Unit - SQL/NoSQL database creation/manipulation
--   ScriptedIn - Interships management website (Indeed-like),
+-   Ýfansi / Cloud Healthcare Unit - SQL/NoSQL database creation/manipulation
+-   ScriptedIn - Internships management website (Indeed-like),
 -   CBD++/EasySave - Desktop softwares (C++/C#),
 
 ### <u>A-level - Engineering science</u>
 
 _Sep. 2016 to Jul. 2019_\
-at [Polyvalent Marcel Rudloff Highschool](https://lyceerudloff.com) - Strasbourg, France - I done differents projects during these three years:
+at [Polyvalent Marcel Rudloff Highschool](https://lyceerudloff.com) - Strasbourg, France - I done different projects during these three years:
 
--   Lumiphra - Interactif map of Strasbourg's cultural places (20/20 at A-level engineering presentation),
+-   Lumiphra - Interactive map of Strasbourg's cultural places (20/20 at A-level engineering presentation),
 -   Paintilu - Python version of Paint (20/20 at A-level coding presentation),
 -   OptiVélo - _See below_,
 
@@ -87,9 +87,9 @@ at [Polyvalent Marcel Rudloff Highschool](https://lyceerudloff.com) - Strasbourg
 _May 2019_\
 during [Engineering Science Olympiads](https://www.upsti.fr/nos-evenements/olympiades-de-si) - 2019 Edition
 
-Presentation with my team of the project made for the A-level engineering test, during an olympiad against different groups of the Strasbourg Academy.\
+Presentation with my team of the project made for the A-level engineering test, during an Olympiad against different groups of the Strasbourg Academy.\
 \
-OptiVélo - An Arduino-ed bike which helps users to enjoy bike travelling (lights/speed change automation, fitness and cultural mobile apps, digital recognition).\
+OptiVélo - An Arduino-ed bike which helps users to enjoy bike traveling (lights/speed change automation, fitness and cultural mobile apps, digital recognition).\
 \
 Made with:
 
