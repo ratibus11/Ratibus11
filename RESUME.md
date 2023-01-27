@@ -9,10 +9,10 @@ at [Banque Internationale à Luxembourg](https://www.bil.com) - Luxembourg, Luxe
 
 -   Member of the CRM team, I'm in charge to create an internal web tool's frontend and API functionalities:
     -   Management (CRUD) of customers' subscriptions for reporting purpose.
-    -   Using:
-        -   Languages - [TypeScript](https://typescriptlang.org), [Java](https://java.com/fr), [SCSS](https://sass-lang.com)
-        -   Frameworks - [React](https://reactjs.org), [Java Spring](https://spring.io), [Jest](https://jestjs.io/fr)
-        -   Project management - [Jira](https://atlassian.com/software/jira), [Confluence](https://atlassian.com/software/confluence)
+-   Using:
+    -   Languages - [TypeScript](https://typescriptlang.org), [Java](https://java.com/fr), [SCSS](https://sass-lang.com)
+    -   Frameworks - [React](https://reactjs.org), [Java Spring](https://spring.io), [Jest](https://jestjs.io/fr)
+    -   Project management - [Jira](https://atlassian.com/software/jira), [Confluence](https://atlassian.com/software/confluence)
 
 ### <u>Fullstack developer</u>
 
@@ -54,7 +54,7 @@ at [INSA Strasbourg](https://insa-strasbourg.fr/fr)/[iCube Laboratory](https://i
 
 ## :pen: Studies
 
-### <u>IT Engineer - Development specialization</u>
+### <u>IT Engineer - Software development</u>
 
 _Since Sep. 2019_\
 at [CESI Engineering School](https://cesi.fr) - Lingolsheim, France
