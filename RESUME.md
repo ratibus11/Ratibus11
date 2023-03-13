@@ -2,9 +2,9 @@
 
 ## :office: Professional experiences
 
-### <u>Frontend developer</u>
+### <u>Fullstack developer - React/Typescript & Java/Spring</u>
 
-_Since Nov. 2022_\
+_Nov. 2022 to Feb. 2023_\
 at [Banque Internationale à Luxembourg](https://www.bil.com) - Luxembourg, Luxembourg
 
 -   Member of the CRM team, I'm in charge to create an internal web tool's frontend and API functionalities:
@@ -14,7 +14,7 @@ at [Banque Internationale à Luxembourg](https://www.bil.com) - Luxembourg, Luxe
     -   Frameworks - [React](https://reactjs.org), [Java Spring](https://spring.io), [Jest](https://jestjs.io/fr)
     -   Project management - [Jira](https://atlassian.com/software/jira), [Confluence](https://atlassian.com/software/confluence)
 
-### <u>Fullstack developer</u>
+### <u>Fullstack developer - Vue & PHP/Laravel</u>
 
 _Jan. to Apr. 2022_\
  at [OCI Informatique & Digital](https://oci.fr) - Mundolsheim, France
