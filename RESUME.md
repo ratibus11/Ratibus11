@@ -13,6 +13,10 @@ at [Banque Internationale à Luxembourg](https://www.bil.com) - Luxembourg, Luxe
     -   Languages - [TypeScript](https://typescriptlang.org), [Java](https://java.com/fr), [SCSS](https://sass-lang.com)
     -   Frameworks - [React](https://reactjs.org), [Java Spring](https://spring.io), [Jest](https://jestjs.io/fr)
     -   Project management - [Jira](https://atlassian.com/software/jira), [Confluence](https://atlassian.com/software/confluence)
+> I highly recommend Lucas, who recently performed an internship in my team. He was curious, competent, autonomous and strong in proposal. He showed us his communication and team work capacities. Lucas will be a precious asset for any company who's looking to hire a motivated and impassioned developer.
+>
+> <div align="right"><u><a href="https://www.linkedin.com/in/lamine-serradj-212500a5">Lamine Serradj</a></u></div>
+> <div align="right"><em>My internship mentor,<br/>CRM team member at BIL</em></div>
 
 ### <u>Fullstack developer - Vue & PHP/Laravel</u>
 
