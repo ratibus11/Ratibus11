@@ -5,9 +5,7 @@ console.log(hi.everyone());
 
 # :man: About me
 
-:pen: Currently studying IT engineering at [CESI Engineering School](https://cesi.fr)...\
-:keyboard: ...and working as a frontend-developer intern at [BIL](https://bil.com) in Luxembourg,
-
+:pen: Currently studying IT engineering at [CESI Engineering School](https://cesi.fr),\
 :books: I like discover new technologies,\
 :gear: I'm currently specializing myself in web development (Node.js, TypeScript, Vue.js, ...),\
 :joystick: Loving video games since my childhood (currently War Thunder, Minecraft, Anno 1800, ...),\
