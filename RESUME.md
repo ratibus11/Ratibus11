@@ -2,6 +2,15 @@
 
 ## :office: Professional experiences
 
+### <u>Fullstack developer - React/JavaScript & C#</u>
+_Since Sep. 2023_
+at [CGI](https://cgi.com) - Strasbourg, France
+
+- Member of the "SM2" team, working of the maintenance and evolution of a sells web application:
+    - Frontend evolution from [Web Forms](https://learn.microsoft.com/fr-fr/aspnet/web-forms/what-is-web-forms) to [React](https://react.dev/)
+    - Refactoring of app API
+    - Resolving tickets from client and developers tests
+
 ### <u>Fullstack developer - React/Typescript & Java/Spring</u>
 
 _Nov. 2022 to Feb. 2023_\
