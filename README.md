@@ -5,9 +5,10 @@ console.log(hi.everyone());
 
 # :man: About me
 
-:pen: Currently studying IT engineering at [CESI Engineering School](https://cesi.fr),\
-:books: I like discover new technologies,\
-:gear: I'm currently specializing myself in web development (Node.js, TypeScript, Vue.js, ...),\
+:pen: Currently studying IT engineering at [CESI Engineering School](https://cesi.fr)...\
+:computer: and doing an apprenticeship as junior web developper at [CGI](https://cgi.com),\
+:books: I like to discover new technologies,\
+:gear: I'm currently specializing myself in web development (Node.js, TypeScript, Vue.js/React, ...),\
 :joystick: Loving video games since my childhood (currently War Thunder, Minecraft, Anno 1800, ...),\
 :email: Feel free to contact me by e-mail at [bastian.lucas@icloud.com](mailto:Lucas%20Bastian<bastian.lucas@icloud.com>),
 
