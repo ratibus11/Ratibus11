@@ -7,9 +7,13 @@ _Since Sep. 2023_
 at [CGI](https://cgi.com) - Strasbourg, France
 
 - Member of the "SM2" team, working of the maintenance and evolution of a sells web application:
-    - Frontend evolution from [Web Forms](https://learn.microsoft.com/fr-fr/aspnet/web-forms/what-is-web-forms) to [React](https://react.dev/)
-    - Refactoring of app API
-    - Resolving tickets from client and developers tests
+    - Frontend evolution from [Web Forms](https://learn.microsoft.com/fr-fr/aspnet/web-forms/what-is-web-forms) to [React](https://react.dev/),
+    - Refactoring of app API,
+    - Resolving tickets from client and developers tests.
+- Using:
+    - Languages - [C#](https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp), [JS](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+    - Frameworks - [React](https://reactjs.org)
+    - Project management - [Microsoft Azure](https://azure.microsoft.com/fr-fr/)
 
 ### <u>Fullstack developer - React/Typescript & Java/Spring</u>
 
