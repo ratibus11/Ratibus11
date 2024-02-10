@@ -28,7 +28,7 @@ Have a look on my detailed resume [here](./RESUME.md) or directly on my [LinkedI
 ![](https://img.shields.io/badge/React-7FD7F7?style=for-the-badge)
 ![](https://img.shields.io/badge/SCSS-BA6A92?style=for-the-badge)
 
-![](https://img.shields.io/badge/MySql-255D82?style=for-the-badge)
+![](https://img.shields.io/badge/MySql-DD8A00?style=for-the-badge)
 ![](https://img.shields.io/badge/PostgreSQL-2F5E8D?style=for-the-badge)
 
 # :keyboard: But also with...
