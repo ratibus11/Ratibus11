@@ -12,7 +12,7 @@ console.log(me.whoAmI());
 :books: I like to discover new technologies,\
 :gear: I'm currently specializing myself in web development (Node.js, TypeScript, React, ...),\
 :joystick: Loving video games since my childhood (currently War Thunder, Minecraft, Anno 1800, ...),\
-:email: Let's get in touch on my email :email::point_right: [ratibus11@icloud.com](mailto:Lucas%20Bastian<ratibus11@icloud.com>),
+:email: Let's get in touch on my email :email::point_right: [ratibus11@icloud.com](mailto:Lucas%20Bastian<ratibus11@icloud.com>) or on my Discord 🎙️ `bastian.lucas`!
 
 :star: Happy co-owner of [@labortem](https://github.com/labortem) organization. Let's have some software fun!
 
