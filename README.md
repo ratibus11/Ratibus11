@@ -3,12 +3,12 @@ console.log(me.whoAmI());
 >>> "I'm Lucas!";
 ```
 
-# :man: IT student and fullstack web developer
+# :man: IT engineering student and fullstack web developer
 
 ## :man: About me
 
 :pen: Currently studying IT engineering at [CESI Engineering School](https://cesi.fr)...\
-:computer: ...and doing an apprenticeship as junior fullstack web developper (JavaScript, React, C#) at [CGI](https://cgi.com),\
+:computer: ...former web development intern at INSA Strasbourg, OCI, BIL and apprentice at CGI.
 :books: I like to discover new technologies,\
 :gear: I'm currently specializing myself in web development (Node.js, TypeScript, React, ...),\
 :joystick: Loving video games since my childhood (currently War Thunder, Minecraft, Anno 1800, ...),\
