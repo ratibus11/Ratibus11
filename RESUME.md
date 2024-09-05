@@ -3,7 +3,7 @@
 ## :office: Professional experiences
 
 ### <u>Fullstack developer - React/JavaScript & C#</u>
-_Since Sep. 2023_
+_Sep. 2023 to Sep. 2024_
 at [CGI](https://cgi.com) - Strasbourg, France
 
 - Member of the "SM2" team, working of the maintenance and evolution of a sells web application:
