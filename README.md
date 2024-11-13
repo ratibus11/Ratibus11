@@ -3,13 +3,13 @@ console.log(me.whoAmI());
 >>> "I'm Lucas!";
 ```
 
-# :man: IT engineering student and fullstack web developer
+# :man: IT engineering/managelent student and fullstack web developer
 
 ## :man: About me
 
-:pen: Currently studying IT engineering at [CESI Engineering School](https://cesi.fr)...\
+:pen: Currently studying IT engineering at [CESI Engineering School](https://cesi.fr) and Company Management and Administration at [EM Strasbourg](https://www.em-strasbourg.com/fr)...\
 :computer: ...former web development intern at INSA Strasbourg, OCI, BIL and apprentice at CGI.
-:books: I like to discover new technologies,\
+:books: I like to discover new technologies (C#, Java, C++, ...),\
 :gear: I'm currently specializing myself in web development (Node.js, TypeScript, React, ...),\
 :joystick: Loving video games since my childhood (currently War Thunder, Minecraft, Anno 1800, ...),\
 :email: Let's get in touch on my email :email::point_right: [ratibus11@icloud.com](mailto:Lucas%20Bastian<ratibus11@icloud.com>) or on my Discord 🎙️ `bastian.lucas`!
