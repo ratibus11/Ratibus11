@@ -71,6 +71,11 @@ at [INSA Strasbourg](https://insa-strasbourg.fr/fr)/[iCube Laboratory](https://i
 
 ## :pen: Studies
 
+### <u>Company Management and Administration</u>
+
+_Since Sep. 2024_\
+at [EM Strasbourg](https://www.em-strasbourg.com/en)
+
 ### <u>IT Engineer - Software development</u>
 
 _Since Sep. 2019_\
