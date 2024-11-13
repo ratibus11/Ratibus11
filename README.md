@@ -3,7 +3,7 @@ console.log(me.whoAmI());
 >>> "I'm Lucas!";
 ```
 
-# :man: IT engineering/managelent student and fullstack web developer
+# :man: IT engineering/management student and fullstack web developer
 
 ## :man: About me
 
