@@ -2,7 +2,7 @@
 
 ## :office: Professional experiences
 
-### <u>Fullstack developer - React/JavaScript & C#</u>
+### _Fullstack developer - React/JavaScript & C#_
 _Sep. 2023 to Sep. 2024_
 at [CGI](https://cgi.com) - Strasbourg, France
 
@@ -15,7 +15,7 @@ at [CGI](https://cgi.com) - Strasbourg, France
     - Frameworks - [React](https://reactjs.org)
     - Project management - [Microsoft Azure](https://azure.microsoft.com/fr-fr/)
 
-### <u>Fullstack developer - React/Typescript & Java/Spring</u>
+### _Fullstack developer - React/Typescript & Java/Spring_
 
 _Nov. 2022 to Feb. 2023_\
 at [Banque Internationale à Luxembourg](https://www.bil.com) - Luxembourg, Luxembourg
@@ -29,9 +29,11 @@ at [Banque Internationale à Luxembourg](https://www.bil.com) - Luxembourg, Luxe
 > I highly recommend Lucas, who recently performed an internship in my team. He was curious, competent, autonomous and strong in proposal. He showed us his communication and team work capacities. Lucas will be a precious asset for any company who's looking to hire a motivated and impassioned developer.
 >
 > <div align="right"><u><a href="https://www.linkedin.com/in/lamine-serradj-212500a5">Lamine Serradj</a></u></div>
-> <div align="right"><em>My internship mentor,<br/>CRM team member at BIL</em></div>
+> <div align="right"><em>My technical manager</div>
+> <div align="right"><em>Translated from French</em></div>
+> <div align="right"><em>See all my recommendations <a href="https://www.linkedin.com/in/lucas-bastian/details/recommendations">here</a></em></div>
 
-### <u>Fullstack developer - Vue & PHP/Laravel</u>
+### _Fullstack developer - Vue & PHP/Laravel_
 
 _Jan. to Apr. 2022_\
  at [OCI Informatique & Digital](https://oci.fr) - Mundolsheim, France
@@ -48,9 +50,11 @@ _Jan. to Apr. 2022_\
 > As web team's manager at OCI, I got Lucas in my team for 4 months. During this period, Lucas has worked as web developer and quickly integrate the team. His adaption capacity and his enthusiasm made him quickly operational and autonomous on projects I gave him. I particularly recommend him to you, he is an intelligent person we take pleasure to work with.
 >
 > <div align="right"><u><a href="https://www.linkedin.com/in/antonin-muller-ba920020/">Antonin Muller</a></u></div>
-> <div align="right"><em>My internship manager,<br/>Web team manager at OCI - Strasbourg-Mundolsheim</em></div>
+> <div align="right"><em>My internship manager</em></div>
+> <div align="right"><em>Translated from French</em></div>
+> <div align="right"><em>See all my recommendations <a href="https://www.linkedin.com/in/lucas-bastian/details/recommendations">here</a></em></div>
 
-### <u>Fullstack developer</u>
+### _Fullstack developer_
 
 _Apr. to Jul. 2021_\
 at [INSA Strasbourg](https://insa-strasbourg.fr/fr)/[iCube Laboratory](https://icube.unistra.fr) - Strasbourg, France
@@ -67,19 +71,24 @@ at [INSA Strasbourg](https://insa-strasbourg.fr/fr)/[iCube Laboratory](https://i
 >
 > <div align="right"><u><a href="https://www.linkedin.com/in/denis-cavallucci-52905014
 > ">Denis Cavallucci</a></u></div>
-> <div align="right"><em>My project manager,<br/>Engineering innovation teacher at INSA - Strasbourg</em></div>
+> <div align="right"><em>My project manager</em></div>
+> <div align="right"><em>See all my recommendations <a href="https://www.linkedin.com/in/lucas-bastian/details/recommendations">here</a></em></div>
 
 ## :pen: Studies
 
-### <u>Master Degree - Company Management and Administration</u>
+### _Master Degree - Companies Manager and Administrator_
 
-_Since Sep. 2024_\
-at [EM Strasbourg](https://www.em-strasbourg.com/en)
+#### :gear: _Still working on! Be patient!_
 
-### <u>IT Engineer - Software development</u>
+_Since Sep. 2024 (ETA: Sep. 2025)_\
+at [EM Strasbourg](https://www.em-strasbourg.com/en) - Strasbourg, France
 
-_Since Sep. 2019_\
-at [CESI Engineering School](https://cesi.fr) - Lingolsheim, France
+### _IT Engineer - Software development_
+
+#### :star: _Successfully completed_
+
+_Sep. 2019 to Nov. 2024_\
+at [CESI École d'Ingénieurs](https://cesi.fr) - Lingolsheim, France
 
 [Problem-Based Learning](https://en.wikipedia.org/wiki/Problem-based_learning) pedagogy where we work in autonomy for studies and in group for projects.
 
@@ -89,18 +98,21 @@ at [CESI Engineering School](https://cesi.fr) - Lingolsheim, France
 -   ScriptedIn - Internships management website (Indeed-like),
 -   CBD++/EasySave - Desktop softwares (C++/C#),
 
-### <u>A-level - Engineering science</u>
+### _A-level - Engineering science_
+
+#### :star: _Successfully completed with "Bien"_ ("Good") _mention_
 
 _Sep. 2016 to Jul. 2019_\
-at [Polyvalent Marcel Rudloff Highschool](https://lyceerudloff.com) - Strasbourg, France - I done different projects during these three years:
+at [Lycée Polyvalent Marcel Rudloff](https://lyceerudloff.com) - Strasbourg, France
 
+I did different projects during these three years:
 -   Lumiphra - Interactive map of Strasbourg's cultural places (20/20 at A-level engineering presentation),
 -   Paintilu - Python version of Paint (20/20 at A-level coding presentation),
 -   OptiVélo - _See below_,
-
+  
 ## :trophy: Awards
 
-### <u>Vice academical champion</u>
+### _Vice academical champion_
 
 _May 2019_\
 during [Engineering Science Olympiads](https://www.upsti.fr/nos-evenements/olympiades-de-si) - 2019 Edition
