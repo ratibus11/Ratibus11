@@ -5,7 +5,7 @@ console.log(me.whoAmI());
 
 # :man: IT engineer / Fullstack developer & Management student
 
-### :robot: French IT engineer from [CESI Engineering School](https://cesi.fr).
+### :robot: French IT engineer from [CESI École d'Ingénieurs](https://cesi.fr).
 *Specializing myself into Node-oriented fullstack web development*
 
 :notebook: Currently studying Companies Management and Administration at [EM Strasbourg](https://www.em-strasbourg.com/fr),\
