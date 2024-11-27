@@ -3,23 +3,22 @@ console.log(me.whoAmI());
 >>> "I'm Lucas!";
 ```
 
-# :man: IT engineering/management student and fullstack web developer
+# :man: IT engineer / Fullstack developer & Management student
 
-## :man: About me
+### :robot: French IT engineer from [CESI Engineering School](https://cesi.fr).
+*Specializing myself into Node-oriented fullstack web development*
 
-:pen: Currently studying IT engineering at [CESI Engineering School](https://cesi.fr) and Company Management and Administration at [EM Strasbourg](https://www.em-strasbourg.com/fr)...\
-:computer: ...former web development intern at INSA Strasbourg, OCI, BIL and apprentice at CGI.
-:books: I like to discover new technologies (C#, Java, C++, ...),\
-:gear: I'm currently specializing myself in web development (Node.js, TypeScript, React, ...),\
+:notebook: Currently studying Companies Management and Administration at [EM Strasbourg](https://www.em-strasbourg.com/fr),\
+:computer: Former web development intern at INSA Strasbourg, OCI, BIL and apprentice at CGI.
+:books: I like to discover new technologies,\
 :joystick: Loving video games since my childhood (currently War Thunder, Minecraft, Anno 1800, ...),\
-:email: Let's get in touch on my email :email::point_right: [ratibus11@icloud.com](mailto:Lucas%20Bastian<ratibus11@icloud.com>) or on my Discord 🎙️ `bastian.lucas`!
+:email: Let's get in touch on my email :email::point_right: [ratibus11@icloud.com](mailto:Lucas%20Bastian<ratibus11@icloud.com>)!
 
 :star: Happy co-owner of [@labortem](https://github.com/labortem) organization. Let's have some software fun!
 
 Have a look on my detailed resume [here](./RESUME.md) or directly on my [LinkedIn](https://linkedin.com/in/lucas-bastian) !\
-[Here](#hammer-development-projects) are my development projects! Check it out!
 
-# :star: Mostly developping with...
+## :star: Mostly developping with...
 
 ![](https://img.shields.io/badge/TypeScript-4074BA?style=for-the-badge)
 
