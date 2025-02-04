@@ -8,7 +8,8 @@ console.log(me.whoAmI());
 ### :robot: French IT engineer from [CESI École d'Ingénieurs](https://cesi.fr).
 *Specializing myself into Node-oriented fullstack web development*
 
-:notebook: Currently studying Companies Management and Administration at [EM Strasbourg](https://www.em-strasbourg.com/fr),\
+:notebook: Currently studying Companies Management and Administration at [EM Strasbourg](https://www.em-strasbourg.com/fr)...\
+...and working as a Software Design Engineer at [BlueSoft Group](https://www.bluesoft-group.com/),\
 :computer: Former web development intern at INSA Strasbourg, OCI, BIL and apprentice at CGI.
 :books: I like to discover new technologies,\
 :joystick: Loving video games since my childhood (currently War Thunder, Minecraft, Anno 1800, ...),\
