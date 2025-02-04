@@ -2,9 +2,15 @@
 
 ## :office: Professional experiences
 
+### _Software design engineer - Vue.js & Java_
+_Since Jan. 2025_
+at [BlueSoft Group](https://www.bluesoft-group.com/) - Illkirch-Graffenstaden, France
+
+- Working on a Vue.js retail after-sales app redesign, with Java backend.
+
 ### _Fullstack developer - React/JavaScript & C#_
 _Sep. 2023 to Sep. 2024_
-at [CGI](https://cgi.com) - Strasbourg, France
+at [CGI](https://cgi.com) - Illkirch-Graffenstaden, France
 
 - Member of the "SM2" team, working of the maintenance and evolution of a sells web application:
     - Frontend evolution from [Web Forms](https://learn.microsoft.com/fr-fr/aspnet/web-forms/what-is-web-forms) to [React](https://react.dev/),
