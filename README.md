@@ -16,7 +16,7 @@ console.log(me.whoAmI());
 
 :star: Happy co-owner of [@labortem](https://github.com/labortem) organization. Let's have some software fun!
 
-Have a look on my detailed resume [here](./RESUME.md) or directly on my [LinkedIn](https://linkedin.com/in/lucas-bastian) !\
+Have a look on my detailed resume [here](./RESUME.md) or directly on my [LinkedIn](https://linkedin.com/in/lucas-bastian) !
 
 ## :star: Mostly developping with...
 
