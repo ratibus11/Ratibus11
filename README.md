@@ -3,13 +3,12 @@ console.log(me.whoAmI());
 >>> "I'm Lucas!";
 ```
 
-# :man: IT engineer / Fullstack developer & Management student
+# :man: IT engineer and manager graduated / Fullstack developer
 
-### :robot: French IT engineer from [CESI École d'Ingénieurs](https://cesi.fr).
+### :robot: French IT engineer at [CESI École d'Ingénieurs](https://cesi.fr) and holder of a Master’s Degree in Business Management and Administration from [EM Strasbourg](https://em-strasbourg.com).
 *Specializing myself into Node-oriented fullstack web development*
 
-:notebook: Currently studying Companies Management and Administration at [EM Strasbourg](https://www.em-strasbourg.com/fr)...\
-...and working as a Software Design Engineer at [BlueSoft Group](https://www.bluesoft-group.com/),\
+:notebook: Working as Junior Software Design Engineer at [BlueSoft Group](https://www.bluesoft-group.com/),\
 :computer: Former web development intern at INSA Strasbourg, OCI, BIL and apprentice at CGI.
 :books: I like to discover new technologies,\
 :joystick: Loving video games since my childhood (currently War Thunder, Minecraft, Anno 1800, ...),\
