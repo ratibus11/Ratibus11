@@ -2,11 +2,21 @@
 
 ## :office: Professional experiences
 
-### _Software design engineer - Vue.js & Java_
+### _Software design engineer - C# - Vue.js/Java_
 _Since Jan. 2025_
-at [BlueSoft Group](https://www.bluesoft-group.com/) - Illkirch-Graffenstaden, France
+at [BlueSoft Group](https://www.bluesoft-group.com/) - Schiltigheim, France
 
-- Working on a Vue.js retail after-sales app redesign, with Java backend.
+- Working on:
+    - Vue.js retail after-sales/internal sales app redesign, with Java backend and microservices architecture,
+    - Angular.js/C# legacy app for flooding issues management,
+    - Multi web application sales app redesign,
+    - Migration from VB WPF/C#
+- Using:
+    - Languages - [C#](https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp), [JS](https://developer.mozilla.org/fr/docs/Web/JavaScript), [Java](https://www.java.com/fr/)
+    - Frameworks - [Angular.js](https://angularjs.org/), [Vue.js](https://vuejs.org), [Java Springboot](https://spring.io)
+    - Project management - [Jira](https://atlassian.com/software/jira),
+    - Database - [MySQL](https://mysql.com/fr), [Oracle Database](https://oracle.com/database/), [PostgreSQL](https://postgresql.org/)
+    - Service manager - [Docker](https://docker.com)
 
 ### _Fullstack developer - React/JavaScript & C#_
 _Sep. 2023 to Sep. 2024_
@@ -30,8 +40,9 @@ at [Banque Internationale à Luxembourg](https://www.bil.com) - Luxembourg, Luxe
     -   Management (CRUD) of customers' subscriptions for reporting purpose.
 -   Using:
     -   Languages - [TypeScript](https://typescriptlang.org), [Java](https://java.com/fr), [SCSS](https://sass-lang.com)
-    -   Frameworks - [React](https://reactjs.org), [Java Spring](https://spring.io), [Jest](https://jestjs.io/fr)
+    -   Frameworks - [React](https://reactjs.org), [Java Springboot](https://spring.io), [Jest](https://jestjs.io/fr)
     -   Project management - [Jira](https://atlassian.com/software/jira), [Confluence](https://atlassian.com/software/confluence)
+
 > I highly recommend Lucas, who recently performed an internship in my team. He was curious, competent, autonomous and strong in proposal. He showed us his communication and team work capacities. Lucas will be a precious asset for any company who's looking to hire a motivated and impassioned developer.
 >
 > <div align="right"><u><a href="https://www.linkedin.com/in/lamine-serradj-212500a5">Lamine Serradj</a></u></div>
