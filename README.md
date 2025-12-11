@@ -14,7 +14,7 @@ console.log(me.whoAmI());
 :joystick: Loving video games since my childhood (currently War Thunder, Minecraft, Anno 1800, ...),\
 :email: Let's get in touch on my email :email::point_right: [ratibus11@icloud.com](mailto:Lucas%20Bastian<ratibus11@icloud.com>)!
 
-:star: Happy co-owner of [@labortem](https://github.com/labortem) organization. Let's have some software fun!
+:star: Happy co-owner of [@labortem](https://github.com/labortem) organization. Let's have some software fun! Currently sleeping a bit, but will be back soon!
 
 Have a look on my detailed resume [here](./RESUME.md) or directly on my [LinkedIn](https://linkedin.com/in/lucas-bastian) !
 
