@@ -2,21 +2,16 @@
 
 ## :office: Professional experiences
 
-### _Software design engineer - C# - Vue.js/Java_
+### _Software design engineer_
 _Since Jan. 2025_
 at [BlueSoft Group](https://www.bluesoft-group.com/) - Schiltigheim, France
 
-- Working on:
-    - Vue.js retail after-sales/internal sales app redesign, with Java backend and microservices architecture,
-    - Angular.js/C# legacy app for flooding issues management,
-    - Multi web application sales app redesign,
-    - Migration from VB WPF/C#
-- Using:
-    - Languages - [C#](https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp), [JS](https://developer.mozilla.org/fr/docs/Web/JavaScript), [Java](https://www.java.com/fr/)
-    - Frameworks - [Angular.js](https://angularjs.org/), [Vue.js](https://vuejs.org), [Java Springboot](https://spring.io)
-    - Project management - [Jira](https://atlassian.com/software/jira),
-    - Database - [MySQL](https://mysql.com/fr), [Oracle Database](https://oracle.com/database/), [PostgreSQL](https://postgresql.org/)
-    - Service manager - [Docker](https://docker.com)
+- Projects:
+    - Spare parts web shop _(Vue (TS) / Java, Thymeleaf / MariaDB / AWS)_
+    - Incident/planning/billing/management web/mobile app _(AngularJS (JS) / C# / SQLServer)_
+    - Nation-scaled associative web app _(Angular (TS) / C# / SQLServer / Microsoft Azure)_
+    - Financial desktop app _(WPF / C# / Oracle Database)_
+    - Industrial e-laboratory web app _(React (TS) / Node (Nest), Java)_
 
 ### _Fullstack developer - React/JavaScript & C#_
 _Sep. 2023 to Sep. 2024_
@@ -93,14 +88,14 @@ at [INSA Strasbourg](https://insa-strasbourg.fr/fr)/[iCube Laboratory](https://i
 
 ## :pen: Studies
 
-### _Master Degree - Companies Manager and Administrator_
+### _[Master Degree - Business Management and Administration](https://www.em-strasbourg.com/en/node/11031)_
 
-#### :gear: _Still working on! Be patient!_
+#### :star: _Successfully completed with "Assez bien"_ ("Quite good") _mention_
 
-_Since Sep. 2024 (ETA: Sep. 2025)_\
+_Sep. 2024 to Jul. 2025_\
 at [EM Strasbourg](https://www.em-strasbourg.com/en) - Strasbourg, France
 
-### _IT Engineer - Software development_
+### _[IT Engineer - Software development](https://www.cesi.fr/en/trainings/undergraduate-course/)_
 
 #### :star: _Successfully completed_
 
